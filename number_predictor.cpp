@@ -6,6 +6,7 @@ using namespace std;
 int main() {
     int secretNumber, guess;
 
+    
     // Seed the random number generator with current time
     srand(time(0));
     secretNumber = rand() % 100 + 1; // Random number between 1 and 100

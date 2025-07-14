@@ -5,6 +5,7 @@ int main() {
     double num1, num2, result;
     int choice;
 
+    
     // Display menu
     cout << "Simple Calculator\n";
     cout << "------------------\n";
